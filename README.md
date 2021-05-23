@@ -4,6 +4,7 @@
 
 
 * Three broken ribs, a pierced lung and still he fought
+* Other than death all defeats are psychological
 
 <!--
 **berkaycihan/berkaycihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
