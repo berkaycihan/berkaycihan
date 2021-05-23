@@ -3,6 +3,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+**Three broken ribs, a pierced lung and still he fought
+
 <!--
 **berkaycihan/berkaycihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
